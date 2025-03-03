@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Node.js
+emergency-dashboard/node_modules/
+emergency-dashboard/build/
+emergency-dashboard/.env
+
+# VS Code / JetBrains
+.vscode/
+.idea/
